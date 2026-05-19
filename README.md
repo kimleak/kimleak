@@ -8,6 +8,15 @@ iOS Developer based in Cambodia 🇰🇭, building with **SwiftUI** and explorin
 - 💬 Ask me about: iOS, Swift, SwiftUI, WebView SDKs
 - 📫 Reach me through GitHub
 
+<p>
+  <a href="https://kimleak-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-kimleak--portfolio.vercel.app-2563EB?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/kimleak/blog">
+    <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20Blog-kimleak%2Fblog-000000?style=for-the-badge" alt="Blog" />
+  </a>
+</p>
+
 ---
 
 #### 🛠 Tech Stack
@@ -29,7 +38,7 @@ iOS Developer based in Cambodia 🇰🇭, building with **SwiftUI** and explorin
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimleak&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=kimleak&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
