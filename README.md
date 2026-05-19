@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=220&section=header&text=Kimleak&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20%C3%97%20AI%20Engineer&descSize=20&descAlignY=60" alt="header" />
 
 <a href="https://github.com/kimleak">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kimleak+%F0%9F%91%8B;iOS+Developer+based+in+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;Building+native+experiences+with+SwiftUI;Exploring+AI+%2F+LLM+applications;Bridging+mobile+%2B+LLM+%2B+agents;%22Knowledge+is+for+sharing.%22" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kimleak+%F0%9F%91%8B;Cambodian+%F0%9F%87%B0%F0%9F%87%AD+Developer+working+in+Korea+%F0%9F%87%B0%F0%9F%87%B7;Building+native+experiences+with+SwiftUI;Exploring+AI+%2F+LLM+applications;Bridging+mobile+%2B+LLM+%2B+agents" alt="Typing animation" />
 </a>
 
 </div>
@@ -72,7 +72,5 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=100&section=footer" alt="footer" />
-
-<sub><i>"Knowledge is for sharing." — Kimleak</i></sub>
 
 </div>
