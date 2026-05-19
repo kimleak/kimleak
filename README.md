@@ -1,46 +1,78 @@
-### Hi, I'm Kimleak 👋
+<div align="center">
 
-iOS Developer based in Cambodia 🇰🇭, building with **SwiftUI** and exploring **AI / LLM applications**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=220&section=header&text=Kimleak&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20%C3%97%20AI%20Engineer&descSize=20&descAlignY=60" alt="header" />
 
-- 🔭 Currently deep-diving into SwiftUI internals
-- 🌱 Learning: LLM apps, FastAPI, TypeScript full-stack
-- ✍️ I write about tech & AI — [kimleak/blog](https://github.com/kimleak/blog)
-- 💬 Ask me about: iOS, Swift, SwiftUI, WebView SDKs
-- 📫 Reach me through GitHub
+<a href="https://github.com/kimleak">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kimleak+%F0%9F%91%8B;iOS+Developer+based+in+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;Building+native+experiences+with+SwiftUI;Exploring+AI+%2F+LLM+applications;Bridging+mobile+%2B+LLM+%2B+agents;%22Knowledge+is+for+sharing.%22" alt="Typing animation" />
+</a>
 
-<p>
+</div>
+
+---
+
+### About Me
+
+- Currently deep-diving into **SwiftUI internals** and **LLM application architecture**
+- Learning **FastAPI**, **TypeScript full-stack**, and **agent design patterns**
+- I write about tech & AI — [**kimleak/blog**](https://github.com/kimleak/blog)
+- Ask me about: **iOS · Swift · SwiftUI · WebView SDKs · LLM apps**
+- Reach me through GitHub
+
+<p align="center">
   <a href="https://kimleak-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-kimleak--portfolio.vercel.app-2563EB?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/kimleak/blog">
-    <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20Blog-kimleak%2Fblog-000000?style=for-the-badge" alt="Blog" />
+    <img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_Blog-0F172A?style=for-the-badge&logoColor=white" alt="Blog" />
   </a>
 </p>
 
 ---
 
-#### 🛠 Tech Stack
+### I code with
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=flat&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
----
-
-#### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kimleak&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimleak&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=kimleak&theme=tokyonight&hide_border=true" height="170" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,xcode,py,fastapi,ts,react,nextjs,tailwind,vercel,figma,git,github&perline=12" alt="Tech stack" />
+  </a>
 </p>
 
 ---
 
-<sub><i>"Knowledge is for sharing."</i></sub>
+### Featured AI / LLM Projects
+
+<p align="center">
+  <a href="https://github.com/kimleak/nl2sql-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimleak&repo=nl2sql-api&theme=tokyonight&hide_border=true" alt="nl2sql-api" />
+  </a>
+  <a href="https://github.com/kimleak/uigen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimleak&repo=uigen&theme=tokyonight&hide_border=true" alt="uigen" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimleak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=8B5CF6" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimleak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kimleak&theme=tokyonight&hide_border=true" height="180" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimleak&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=100&section=footer" alt="footer" />
+
+<sub><i>"Knowledge is for sharing." — Kimleak</i></sub>
+
+</div>
